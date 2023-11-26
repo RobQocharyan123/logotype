@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/logotype/static/css/main.fe5bd0f0.css",
+    "main.js": "/logotype/static/js/main.0e184313.js",
+    "static/media/Wheels.png": "/logotype/static/media/Wheels.d92e6506bddbced97ab9.png",
+    "static/media/Eat.png": "/logotype/static/media/Eat.5f3706c01cac7a527935.png",
+    "static/media/Look.png": "/logotype/static/media/Look.b805c5743e09a6f7c209.png",
+    "static/media/Song.png": "/logotype/static/media/Song.9c44fb59e63f2d6f5761.png",
+    "static/media/Need.png": "/logotype/static/media/Need.79983a63288fbd1bf5d1.png",
+    "static/media/Living.png": "/logotype/static/media/Living.edb980e24b198843027b.png",
+    "static/media/Colorful.png": "/logotype/static/media/Colorful.e099a8737f54ebb42aa5.png",
+    "static/media/Makes.png": "/logotype/static/media/Makes.db5e1befd76aa7c37163.png",
+    "static/media/Fun.png": "/logotype/static/media/Fun.9b9bc6f0f04f7ef038eb.png",
+    "static/media/shop.png": "/logotype/static/media/shop.a0391f6a485d08e357db.png",
+    "static/media/buy-now.png": "/logotype/static/media/buy-now.ac72deff373acc766abc.png",
+    "index.html": "/logotype/index.html",
+    "main.fe5bd0f0.css.map": "/logotype/static/css/main.fe5bd0f0.css.map",
+    "main.0e184313.js.map": "/logotype/static/js/main.0e184313.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe5bd0f0.css",
+    "static/js/main.0e184313.js"
+  ]
+}
